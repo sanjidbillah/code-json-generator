@@ -1,12 +1,3 @@
-[
- {
- "title" :"Quran",
-  "description":"And when it is said unto them: Make not mischief in the earth, they say: We are peacemakers only",
-  "where":"Al-Baqara - 2:11"
-  },
- {
- "title" :"Hadith",
-  "description":"Fear Allah wherever you are. Do good immediately after a sinful act to erase it, and always be well-mannered in your relationship with people.",
-  "where":"Tirmidhi -55"
-  }
-]
+{
+ "verson":130
+}
